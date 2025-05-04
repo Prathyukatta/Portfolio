@@ -133,7 +133,7 @@ export const Projects = () => {
                                     ))}
                                 </div>
                                 <div className="flex justify-between items-center">
-                                    <a href="#"
+                                    <a href="https://prathyukatta.github.io/Portfolio/"
                                     className=" py-1 px-3 rounded-full text-sm hover:bg-blue-500/20
                                           text-blue-400 hover:text-blue-300 transition-colors my-4 ">View Project 
                                           </a>
