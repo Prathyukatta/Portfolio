@@ -67,7 +67,14 @@ export const About = () => {
 
                     </li>
                     <li>
-                        Relevant Coursework: Data Structures, Web Development, Cloud Computing...
+                        <strong>Board of Intermediate Education</strong> - Narayana Junior College (2018 - 2020)
+                        <strong> CGPA:9.2 </strong>
+
+                    </li>
+                    <li>
+                        <strong>High School</strong> - Nagarjuna High School (2020 - 2024)
+                        <strong> CGPA:9.5 </strong>
+
                     </li>
                     
                 </ul>
