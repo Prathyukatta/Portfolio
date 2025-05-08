@@ -72,7 +72,7 @@ export const About = () => {
 
                     </li>
                     <li>
-                        <strong>High School</strong> - Nagarjuna High School (2020 - 2024)
+                        <strong>High School</strong> - Nagarjuna High School (2017 - 2018)
                         <strong> CGPA:9.5 </strong>
 
                     </li>
